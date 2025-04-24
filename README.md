@@ -32,7 +32,9 @@ Il contient des **scripts simples et pédagogiques**, classés par thématiques 
 ## 🤖 Auteur
 
 **Geoffrey Rouvel**  
-Étudiant à l’IPSSI | Administrateur Réseau & Sécurité  
-Github : [@RgGeolll](https://github.com/RgGeolll)
+Étudiant à l’IPSSI | Administrateur Systèmes & Réseaux  
+GitHub : [@RgGeolll](https://github.com/RgGeolll)
 
 ---
+
+🎓 Projet réalisé dans le cadre du module **Introduction à l'écriture d'un malware en python** – Mastère Cybersécurité & Cloud.
