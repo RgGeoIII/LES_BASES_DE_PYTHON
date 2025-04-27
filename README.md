@@ -37,4 +37,4 @@ GitHub : [@RgGeolll](https://github.com/RgGeolll)
 
 ---
 
-🎓 Projet réalisé dans le cadre du module **Introduction à l'écriture d'un malware en python** – Mastère Cybersécurité & Cloudcomputing.
+🎓 Projet réalisé dans le cadre du module **Les bases de python** – Mastère Cybersécurité & Cloudcomputing.
